@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # vuest
+=======
+vuejs框架试用
+>>>>>>> dev
 
 ## Project setup
 ```
@@ -22,3 +26,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+<<<<<<< HEAD
+=======
+>>>>>>> create vue-cli
+>>>>>>> dev
